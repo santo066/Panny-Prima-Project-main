@@ -1,0 +1,1148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+
+
+/* Header css start */
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#Header{
+  background: #9D1562;  
+  padding: 9.5px 0;
+}
+.phone{
+    margin-right: 34px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.email{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.phone a{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    margin-left: 10px;
+}
+.phone a:first-child{
+    margin-left: 0;
+}
+.email a:first-child{
+    margin-left: 0;
+}
+.email a{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    margin-left: 10px;
+}
+.headerLeft{
+    display: flex;
+}
+.socialIcon{
+    display: flex;
+    justify-content: end;
+    max-width: 100%;
+}
+.socialIcon a{
+    margin-left: 13.66px;
+}
+
+/* Header css end */
+
+/* bannar css start */
+.banner p{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    max-width: 494.57px;
+    margin: 0 auto;
+}
+
+.banner button{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    padding: 12px 24px;
+    background: #9D1562;
+    border: none;
+    border-radius: 8px;
+    color: #ffff;
+    cursor: pointer;
+    margin-right: 22px;
+}
+.banner img{
+    margin-bottom: 25px;
+}
+
+.banner .btn2{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    padding: 12px 24px;
+    background: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    color: #9D1562;
+    cursor: pointer;
+}
+
+#Banner {
+    position: relative;
+}
+
+#Banner::after {
+    content: "";
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 25%;
+    background: url('../images/shape1.png') no-repeat left top;
+    background-size: 100% 100%;
+    z-index: 1;
+}
+#Banner::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: 50%;
+}
+.banner{
+    padding-top: 127px;
+}
+
+.bannercon{
+    padding: 0;
+}
+.bannerRow{
+    padding: 0;
+}
+.bannerCol{
+    padding: 0;
+}
+#About{
+    background: #FFE4F3;
+    padding-bottom: 102px;
+}
+.button button{
+    transition: all linear .3s;
+}
+.button button:hover{
+    color: #9D1562;
+    background: #FFFFFF;
+}
+.button .btn2:hover{
+    color: #ffff;
+    background: #9D1562;
+}
+/* bannar css end */
+
+
+
+/* about css start */
+
+.aboutText h2{
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #9D1562;
+}
+.aboutText h3{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000;
+    padding-top: 20px;
+}
+.aboutText p{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.2px;
+    color: #000;
+    padding-top: 18px;
+    max-width: 581.04px;
+}
+.aboutImg img{
+    max-width: 589.45px;
+    height: 589.45px;
+}
+.aboutText{
+    padding-top: 9rem;
+}
+
+.aboutText h3 span{
+   font-family: inkfree;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 39px;
+    text-align: left;
+}
+/* about css end */
+
+
+/* Insepering css start */
+#Insepering{
+    padding: 120px 0;
+}
+.heading h3{
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    text-align: center;
+    color: #9D1562;
+}
+.heading p{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.2px;
+    text-align: center;
+    color: #000;
+    max-width: 587.54px;
+    padding-bottom: 105px;
+    padding-top: 24px;
+    margin: 0 auto;
+}
+
+.insCard{
+    max-width: 364.79px;
+    height: 291.96px;
+    background: #FBDEED;
+    border-radius: 30px;
+    position: relative;
+    transition: all linear .3s;
+    cursor: pointer;
+}
+.insCard h4{
+    max-width: 264.58px;
+    height: 96px;
+    margin: 0 auto;
+    font-family: "Inter", sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 47.6px;
+    color: #000000;
+    text-align: center;
+    padding-top: 8rem;
+    padding-bottom: 68px;
+    transition: all linear .3s;
+}
+
+
+.insCard .imgbox{
+    width: 105.58px;
+    height: 105.58px;
+    background: #9D1562;
+    border-radius: 50%;
+    padding: 33px;
+    border: 7px solid #fff;
+    position: absolute;
+    left: 50%;
+    top: -28%;
+    transform: translateX(-50%);
+    overflow: hidden;
+    transition: all linear .3s;
+}
+.insCard .imgbox2{
+    width: 105.58px;
+    height: 105.58px;
+    background: #9D1562;
+    border-radius: 50%;
+    padding: 33px;
+    border: 7px solid #fff;
+    position: absolute;
+    left: 50%;
+    top: -28%;
+    transform: translateX(-50%);
+    overflow: hidden;
+    transition: all linear .3s;
+}
+.insCard:hover .imgbox{
+    background: #FBDEED;
+}
+.insCard:hover .imgbox2{
+    background: #FBDEED;
+}
+
+
+.insCard .imgbox img{
+    width: 100%;
+    height: 100%;
+    transition: all linear .3s;
+}
+
+.insCard h2{
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    text-align: center;
+    color: #9D1562;
+    padding-bottom: 135px;
+}
+
+.insCard:hover .imgbox img{
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
+
+.insCard:hover h4,
+.insCard:hover p{
+    color: #fff;
+}
+
+.insCard:hover{
+    background: #9D1562;
+}
+
+
+
+
+/* Insepering css end */
+
+/* comunity css start */
+.com h4{
+    font-family: "Inter", sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 47.6px;
+    max-width: 219px;
+    text-align: center;
+    color: #fff;
+}
+.com img{
+    max-width: 227.22px;
+    height: 227.22px;
+    margin-bottom: 24px;
+}
+.comHeading h2{
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    text-align: center;
+    padding-bottom: 56px;
+    color: #ffff;
+}
+.partNer{
+    padding-top: 56px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.partNer img{
+    width: 100%;
+    max-width: 100%;
+}
+
+#Partner{
+   padding: 64px 0 133px 0;
+}
+
+#Comunity{
+    position: relative;
+    background: #9D1562;
+}
+
+/* comunity css end */
+
+/* footer css start */
+#footer{
+    background: #9D1562;
+    padding: 60px 0 20px 0;
+}
+.footer1 img{
+    width: 312.81px;
+    height: 87.45px;
+    max-width: 100%;
+    margin-bottom: 28px;
+}
+.footer1 p{
+   max-width: 369px;
+   font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.94px;
+    color: #ffff;
+    padding-bottom: 31px;
+}
+.input input{
+    padding: 14px 20px;
+    border-radius: 8px;
+    border: 1px solid #ffff;
+    background: transparent;
+    color: #fff;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: 14px;
+    max-width: 197px;
+}
+.input input::placeholder{
+    color: #fff;
+}
+
+.input button{
+       padding: 14px 15px;
+       background: #FFFFFF;
+       color: #9D1562;
+       font-family: Inter;
+        font-size: 18px;
+        font-weight: 400;
+        border-radius: 8px;
+        cursor: pointer;
+        border: none;
+}
+
+.footer2 h4{
+    font-family: "Inter", sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    padding-bottom: 40px;
+}
+.footer2 ul li a{
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 32px;
+}
+.footer2 ul li:last-child a{
+    margin-bottom: 0;
+}
+.footer2 ul li a i{
+    font-size: 12px;
+    padding-left: 10px;
+}
+.footerPhone a{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    color: #fff;
+    padding-right: 20px;
+}
+.footerEmail a{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    color: #fff;
+    padding-right: 20px;
+}
+.footerPhone {
+    padding-bottom: 32px;
+}
+.footerCoppy p{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffff;
+    padding-top: 13px;
+}
+.footerBtm{
+    margin-top: 64px;
+}
+#footer{
+    position: relative;
+}
+#footer::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: -109px;
+    width: 100%;
+    height: 25%;
+    background: url('../images/FooterShape.png') no-repeat left top;
+    background-size: 100% 100%;
+    z-index: 1;
+}
+.footerBtm{
+    position: relative;
+}
+.footerBtm::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: -23px;
+    width: 100%;
+    height: 1px;
+    background: #ffff;
+}
+
+.footersocialIcon{
+    display: flex;
+    justify-content: end;
+}
+
+.footersocialIcon a{
+    margin-right: 26px;
+}
+
+.footersocialIcon a:last-child{
+    margin-right: 0;
+}
+.paymentMethod{
+    padding-top: 73px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+.left h4{
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #fff;
+}
+.right a img{
+    max-width: 100%;
+    width: 100%;
+}
+
+/* footer css end */
+
+
+
+/* ============================about page=================================== */
+
+
+
+/* banner css start */
+#AboutBanner{
+    position: relative;
+}
+#AboutBanner::after {
+    content: "";
+    position: absolute;
+    bottom: -51px;
+    left: 0;
+    width: 100%;
+    height: 25%;
+    background: url('../images/BannerAfter.png') no-repeat left top;
+    background-size: 100% 100%;
+    z-index: 1;
+}
+
+
+    .shopBannerText h1{
+        font-family: "Inter", sans-serif;
+        font-size: 40px;
+        font-weight: 700;
+        color: #fff;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .shopBannerText p{
+        font-family: "Inter", sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        text-align: center;
+        color: #ffff;
+    }
+    .shopBannerText a{
+        font-family: "Inter", sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        text-align: center;
+        color: #ffff;
+    }
+    .shopBannerText{
+        padding-top: 140px;
+    }
+
+    .shopCard{
+        border: 1px solid #C0C0C0;
+        max-width: 100%;
+        padding: 24px;
+        border-radius: 10px;
+    }
+
+    .shopCard img{
+        width: 100%;
+    }
+    .shopCard h4{
+        font-family: "Inter", sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 23.4px;
+        padding-top: 20px;
+        padding-bottom: 47px;
+    }
+.shopCard span{
+    color: #9D1562;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.shopCard button{
+    padding: 12px 0;
+    background: #FFE4F3;
+    border: 0;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 8px;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    color: #9D1562;
+}
+.shopCard button i{
+    margin-right: 10px;
+}
+.shopC{
+    padding-bottom: 20px;
+}
+.shopC h4 span{
+    margin-left: 15px;
+}
+
+/* banner css end */
+
+
+
+/* abous css start  */
+#MainAbout{
+    background: #ffff;
+    padding: 65px 0 120px 0;
+}
+.rightSideImg img{
+    width: 475.5px;
+height: 345.59px;
+}
+
+.abutLeft{
+    padding-top: 0;
+}
+/* about css end */
+
+
+/* Team css start */
+#Team{
+    padding: 0 0 180px 0;
+}
+.aboutCard{
+    max-width: 100%;
+    height: 335.51px;
+    background: #FFF4FA;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 24px;
+}
+.aboutCard h3{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Inter", sans-serif;
+    color: #000;
+    padding-top: 16px;
+    line-height: 28px;
+}
+.aboutCard h4{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: #000;
+    line-height: 28px;
+}
+.aboutCard p{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: #000;
+    line-height: 28px;
+}
+
+.AboutHeading h2{
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+    color: #9D1562;
+    padding-bottom: 56px;
+}
+
+.aboutCard img{
+    width: 176.05px;
+    height: 176.05px;
+    padding-top: 33px;
+}
+/* Team css end */
+
+
+/* footer css start */
+.leftFot h4{
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #fff;
+}
+.rightFot img{
+    width: 100%;
+}
+.payment{
+    padding-top: 50px;
+}
+/* footer css end */
+
+
+
+/* ============================Prima page=================================== */
+
+
+
+/* Prima banner css start */
+    #PrimaBanner{
+        position: relative;
+        background: url('../images/PrimaBanner.png') no-repeat center center;
+        background-size: cover;
+        height: 860px;
+    }
+    #PrimaBanner::after {
+        content: "";
+        position: absolute;
+        bottom: -1px;
+        left: 0;
+        width: 100%;
+        height: 25%;
+        background: url('../images/shapePrimaBanner.png') no-repeat left top;
+        background-size: 100% 100%;
+        z-index: 1;
+    }
+
+    .primaBannerText img{
+        width: 579.13px;
+        height: 218.96px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .primaBannerText p{
+        font-family: "Inter", sans-serif;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        color: #fff;
+        padding-bottom: 40px;
+    }
+    .primaBannerText button{
+        text-align: center;
+        padding: 12px 24px;
+        color: #fff;
+        background: #9D1562;
+        transition: all linear .3s;
+        cursor: pointer;
+        border-radius: 8px;
+        border: none;
+        font-family: "Inter", sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+    }
+    .primaBannerText button:hover{
+        color: #9D1562;
+        background: #ffff;
+    }
+
+    .primaBannerText{
+        padding-top: 155px;
+        position: relative;
+    }
+
+
+    .ytIcon{
+        position: absolute;
+        top: 30%;
+        right: 7%;
+        width: 111.05px;
+        height: 111.05px;
+        background: #9D1562;
+        border-radius: 50%;
+        cursor: pointer;
+    }
+    .ytIcon a i{
+        color: #fff;
+        font-size: 55px;
+        padding-top: 26px;
+        position: absolute;
+        left: 40px;
+        top: 1px;
+        z-index: 1;
+    }
+
+    .ytIcon::before{
+        content: '';
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        background: #9D15624D;
+        border-radius: 50%;
+        opacity: 0.6;
+    }
+    .ytIcon::before{
+        animation: pulse 2s ease-out infinite;
+    }
+
+    @keyframes pulse{
+        100%{
+            transform: scale(2.5);
+        }
+    }    
+    
+/* Prima banner css start */
+
+/* offer css start */
+#Offer{
+    background: #F4F4F4;
+    padding-bottom: 120px;
+}
+.offerCard{
+    max-width: 371px;
+    height: 413.06px;
+    background: #FBDEED;
+    border-radius: 30px;
+    position: relative;
+    transition: all linear .3s;
+    cursor: pointer;
+}
+.offerCard h4{
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31.2px;
+    text-align: center;
+    color: #000;
+    max-width: 224.77px;
+    margin: 0 auto;
+    padding-bottom: 16px;
+    padding-top: 115px;
+    transition: all linear .3s;
+}
+.offerCard p{
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    color: #000;
+    max-width: 323.02px;
+    margin: 0 auto;
+    transition: all linear .3s;
+}
+
+.offerCard .imgbox{
+    width: 105.58px;
+    height: 105.58px;
+    background: #9D1562;
+    border-radius: 50%;
+    padding: 33px;
+    border: 7px solid #fff;
+    position: absolute;
+    left: 50%;
+    top: -20%;
+    transform: translateX(-50%);
+    overflow: hidden;
+    transition: all linear .3s;
+}
+.offerCard:hover .imgbox{
+    background: #FBDEED;
+}
+
+.offerCard .imgbox img{
+    width: 100%;
+    height: 100%;
+    transition: all linear .3s;
+}
+
+.primaHeading h2{
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    text-align: center;
+    color: #9D1562;
+    padding-bottom: 135px;
+}
+
+.offerCard:hover .imgbox img{
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
+
+.offerCard:hover h4,
+.offerCard:hover p{
+    color: #fff;
+}
+
+.offerCard:hover{
+    background: #9D1562;
+}
+
+
+
+/* offer css end */
+
+
+/* Industry css start */
+#Industry{
+    padding: 100px 0;
+}
+
+.indusLeft h3{
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+    max-width: 455.26px;
+    color: #9D1562;
+}
+.indusLeft p{
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23.8px;
+    color: #000;
+    max-width: 579.29px;
+}
+
+.brand img{
+    margin-top: 32px;
+    width: 1313px;
+    max-width: 100%;
+}
+.indusLeft{
+    position: relative;
+}
+.indusLeft h3::after{
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: #9D1562;
+    height: 70%;
+    width: 7.95px;
+}
+
+
+.indusBtn button{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    padding: 12px 24px;
+    transition: all linear .3s;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    color: #ffff;
+    background: #9D1562;
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.indusBtn button:hover{
+    color: #9D1562;
+    background: #FBDEED;
+}
+/* Industry css end */
+
+/* pricing css start */
+#Pricing{
+    padding: 104px 0;
+    position: relative;
+    padding: 104px 0 220px 0;
+}
+.pricingHeading h2{
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    color: #ffff;
+    padding-bottom: 17px;
+}
+.pricingHeading p{
+    font-family: "Inter", sans-serif;;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+}
+
+.pricingHeading button{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    padding: 12px 24px;
+    transition: all linear .3s;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    background: #ffff;
+    color: #9D1562;
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 79px;
+}
+.pricingHeading button:hover{
+    background: #FBDEED;
+}
+
+
+#Pricing::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 50%;
+    background: #9D1562;
+    z-index: -1;
+}
+.pricingImage img{
+    width: 100%;
+}
+
+.videoIcon a i{
+    font-size: 56px;
+    color: #fff;
+    font-size: 55px;
+    padding-top: 26px;
+    position: absolute;
+    left: 40px;
+    top: 1px;
+    z-index: 1;
+}
+.videoIcon{
+    width: 111.05px;
+    height: 111.05px;
+    background: #9D1562;
+    border-radius: 50%;
+    cursor: pointer;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.pricingImage{
+    position: relative;
+}
+
+
+.videoIcon::before{
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: #9D15624D;
+    border-radius: 50%;
+    opacity: 0.6;
+}
+.videoIcon::before{
+    animation: pulse 2s ease-out infinite;
+}
+
+@keyframes pulse{
+    100%{
+        transform: scale(2.5);
+    }
+}
+/* pricing css end */
+
+
+
+
+/* ============================award page======================= */
+#award{
+    background: #ffff;
+}
+
+.awardText{
+    padding-top: 13rem;
+}
+
+/* being award css start */
+.beingcal img{
+   max-width: 100%;
+}
+.being{
+    margin-top: 32px;
+}
+
+.BegainAward{
+    max-width:  1150px;
+    margin: 0 auto;
+}
+/* being award css end */
+
+
+/* Talent award css start */
+#talentAward{
+    padding-bottom: 120px;
+}
+
+.talentCard{
+    max-width: 282.75px;
+    height: 204.24px;
+    background: #FFF4FA;
+    border-radius: 15px;
+    border: 1px solid #9D1562;
+    margin-bottom: 32px;
+}
+
+.talentCard h4{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+    text-align: center;
+    padding-top: 60px;
+}
+.talentCard p{
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25.5px;
+    text-align: center;
+    color: #000;
+}
+.talentAwardRow{
+    padding-top: 56px;
+    max-width: 912px;
+    margin: 0 auto;
+}
+.beingMainRow{
+    max-width: 912px;
+    margin: 0 auto;
+}
+/* Talent award css end */
+
+
+
+
+

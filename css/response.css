@@ -1,0 +1,2383 @@
+@media (min-width: 1400px) {
+}
+
+@media(min-width:1200px) and (max-width:1399.98px){
+ /* footer css start */
+ .input input{
+    max-width: 187px;
+ }
+ /* footer css end */
+  
+}
+
+
+@media(min-width:992px) and (max-width:1199.98px){
+ 
+/* about css start */
+    .aboutImg img{
+        max-width: 472.45px;
+        height: auto;
+    }
+    .aboutText {
+        padding-top: 5rem;
+    }
+/* about css end */
+
+/* comnunity css start */
+.com img{
+    max-width: 173.22px;
+    height: auto;
+}
+.com h4{
+    font-size: 25px;
+}
+/* comnunity css end */
+
+/* partner csss start */
+.partNer a img{
+    width: 155px;
+    height: auto;
+}
+/* partner csss end */
+
+/* comunity css start */
+#Comunity{
+    position: relative;
+    background: #9D1562;
+}
+
+#Comunity::after{
+    top: -57px;
+}
+#Comunity::before{
+    bottom: -57px;
+}
+/* comunity css end */
+
+ /* footer css start */
+ .input input{
+    max-width: 155px;
+    padding: 14px 11px;
+    margin-right: 5px;
+ }
+ /* footer css end */
+
+
+ /* =====================about page======================== */
+
+
+/* about css start */
+.abutLeft{
+    padding-top: 0;
+}
+
+/* about css end */
+
+/* ===================Prima page======================== */
+
+/* Banner css start */
+
+.primaBannerText img{
+    width: 432.13px;
+    height: auto;
+}
+.primaBannerText p{
+    font-size: 28px;
+}
+
+.ytIcon a i{
+    font-size: 35px;
+    left: 30px;
+  top: -3px;
+}
+.ytIcon{
+    width: 80px;
+    height: 80px;
+}
+/* Banner css end */
+
+/* offer css start */
+
+.offerCard p{
+    max-width: 290px;
+}
+/* offer css end */
+
+
+/* Industry css start */
+.indusLeft h3::after {
+    height: 90%;
+    width: 3.95px;
+  }
+/* Industry css end */
+
+
+/* ======================Award page================ */
+
+/* BeingAward css start */
+
+/* BeingAward css end */
+
+}
+
+
+
+@media(min-width:768px) and (max-width:991.98px){
+
+    /* Header css start */
+
+    /* Header css end */
+
+
+    /* banner css start */
+    #Banner::after {
+        height: 20%;
+    }
+    .banner{
+        padding-top: 163px;
+    }
+    /* banner css end */
+
+
+/* about css start */
+.aboutImg img{
+    max-width: 472.45px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+.aboutText {
+    padding-top: 0;
+}
+.aboutText p{
+    max-width: 100%;
+}
+#About {
+    padding-bottom: 48px;
+}
+/* about css end */
+
+
+/* Insepering css start */
+#Insepering{
+    padding: 64px 0 20px 0;
+}
+.col-card{
+    padding-bottom: 110px;
+}
+.col-card:last-child{
+    padding-bottom: 0;
+}
+.insCard{
+    margin: 0 auto;
+}
+/* Insepering css end */
+
+/* comnunity css start */
+.com img{
+    max-width: 173.22px;
+    height: auto;
+  margin-bottom: 10px;
+}
+.com h4{
+    font-size: 25px;
+    margin: 0;
+}
+.com{
+    padding-bottom: 44px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* comnunity css end */
+
+/* partner css start */
+#Partner{
+    padding: 70px 0 95px 0;
+}
+.partNer {
+    padding-top: 32px;
+}
+
+.partNer a img{
+    width: 144px;
+    height: auto;
+}
+/* partner css end */
+
+   /* footer css start */
+   #footer::after {
+    height: 8%;
+    top: -75px;
+    }
+    .footer2{
+        padding-top: 40px;
+    }
+
+    .socialIcon {
+        justify-content: center;
+      }
+      .footerCoppy p{
+        text-align: center;
+        padding-bottom: 18px;
+      }
+
+      .footersocialIcon {
+        justify-content: center;
+      }
+   /* footer css end */
+
+ /* =====================about page======================== */
+
+
+/* about css start */
+.abutLeft{
+    padding-top: 0;
+}
+.abutLeft p{
+    max-width: 100%;
+    padding-bottom: 24px;
+}
+
+.rightSideImg img{
+  display: block;
+  margin: 0 auto;
+}
+#MainAbout{
+    padding: 45px 0 80px 0;
+}
+/* about css end */
+
+
+/* team css start*/
+#Team{
+    padding: 0 0 80px 0;
+}
+.aboutCard {
+    max-width: 347.07px;
+    margin: 0 auto 32px auto;
+}
+/* team css end*/
+
+
+/* footer css start */
+
+.footerBtm {
+    margin-top: 60px;
+  }
+  .paymentMethod{
+    display: flex;
+    flex-direction: column;
+  }
+  .leftCol{
+    width: 100%;
+}
+
+.left h4{
+    padding-bottom: 32px;
+}
+
+  
+/* footer css end */
+
+
+/* ===================Prima page======================== */
+
+/* Banner css start */
+
+.primaBannerText img{
+    width: 344.13px;
+    height: auto;
+}
+.primaBannerText p{
+    font-size: 24px;
+    padding-bottom: 30px;
+}
+
+.ytIcon a i{
+    font-size: 35px;
+    left: 30px;
+  top: -3px;
+}
+.ytIcon{
+    width: 80px;
+    height: 80px;
+}
+
+.primaBannerText button{
+    padding: 9px 15px;
+  font-size: 18px;
+}
+
+.ytIcon::before {
+    height: 50px;
+    width: 50px;
+    top: 17px;
+    left: 14px;
+}
+
+.primaBannerText {
+    padding-top: 110px;
+  }
+
+  #PrimaBanner{
+    height: 610px;
+  }
+/* Banner css end */
+
+
+/* offer css start */
+
+.offerCard{
+    max-width: 371px;
+    display: block;
+    margin: 0 auto 108px auto;
+}
+/* offer css end */
+
+
+/* comunity css start */
+#Comunity::after{
+    top: -85px;
+    height: 11%;
+
+}
+#Comunity::before{
+    bottom: -72px;
+    height: 13%;
+}
+/* comunity css end */
+
+/* Industry css start */
+#Offer{
+    padding-bottom: 0;
+}
+.indusLeft h3::after {
+    height: 0;
+    width: 0;
+  }
+  .topIndus{
+    display: flex;
+    flex-direction: column;
+  }
+.IndusCol{
+    width: 100%;
+}
+/* Industry css end */
+
+
+/* pricing css start */
+.videoIcon {
+    width: 80px;
+    height: 80px;
+}
+.videoIcon a i{
+    font-size: 40px;
+    left: 29px;
+    top: -5px;
+}
+
+.videoIcon::before {
+    height: 50px;
+    width: 50px;
+    left: 15px;
+    top: 17px;
+  }
+
+  #Pricing {
+    padding: 104px 0 150px 0;
+  }
+/* pricing css end */
+
+
+
+
+/* =====================award page======================= */
+
+/* being award css start */
+.beingcal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 32px;
+}
+.beingcal:last-child{
+    margin-bottom: 0;
+}
+.being{
+    margin-top: 32px;
+}
+/* being award css end */
+
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    /* Header css start */
+    .phone a{
+        font-size: 12px;
+    }
+    .email a{
+        font-size: 12px;
+    }
+    .phone a svg{
+        width: 16px;
+        height: 16px;
+    }
+    .email a svg{
+        width: 16px;
+        height: 16px;
+    }
+
+    .phone {
+        margin-right: 20px;
+    }
+    /* Header css end */
+
+  /* banner css start */
+    .banner img{
+        width: 384.97px;
+        height: 107.62px;  
+        margin-bottom: 0;
+    }
+    .banner p{
+        font-size: 16px;
+        max-width: 392px;
+    }
+    .button {
+        display: flex;
+        justify-content: center;
+        margin-top: 24px !important;
+    }
+    .button button{
+        font-size: 16px;
+        margin-right: 8px;
+        padding: 12px 16px;
+
+    }
+    .button button:last-child{
+        margin-right: 0px;
+    }
+    #Banner{
+        height: 510px !important;
+    }
+    #Banner::after {
+        height: 20%;
+    }
+
+    .button .btn2{
+        max-width: 259px;
+        font-size: 16px;
+        padding: 12px 15px;
+    }
+    .banner {
+        padding-top: 80px;
+    }
+  /* banner css end */
+
+
+  /* about css start */
+.aboutImg img{
+    max-width: 472.45px;
+    height: auto;
+    margin-left: 3rem;
+}
+.aboutText {
+    padding-top: 0;
+}
+.aboutText p{
+    max-width: 100%;
+}
+/* about css end */
+
+
+/* Insepering css start */
+.col-card:last-child{
+    padding-bottom: 0;
+}
+#Insepering{
+    padding: 64px 0 20px 0;
+}
+.col-card{
+    padding-bottom: 110px;
+}
+.insCard{
+   margin: 0 auto;
+   height: 292px;
+}
+
+.insCard img{
+    width: 120px;
+    height: 120px;
+}
+.insCard h4 {
+    font-size: 26px;
+    line-height: 44px;
+    max-width: 264.58px;
+    margin: 0 auto;
+}
+/* Insepering css end */
+
+/* comnunity css start */
+.com img{
+    max-width: 173.22px;
+    height: auto;
+    margin-bottom: 10px;
+}
+.com h4{
+    font-size: 26px;
+    margin: 0;
+    line-height: 44px;
+}
+.com{
+    padding-bottom: 44px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#Comunity::after {
+    top: -10px;
+    height: 8%;
+}
+#Comunity::before {
+    top: -53px;
+    height: 7%;
+}
+/* comnunity css end */
+
+/* partner css start */
+#Partner{
+    padding: 41px 0 103px 0;
+}
+.partNer {
+    padding-top: 32px;
+}
+
+.partNer a img{
+    width: 120px;
+    height: auto;
+}
+/* partner css end */
+
+/* footer css start */
+#footer::after {
+    height: 8%;
+    top: -74px;
+    }
+    .footer2{
+        padding-top: 40px;
+    }
+
+    .socialIcon {
+        justify-content: center;
+      }
+      .footerCoppy p{
+        text-align: center;
+        padding-bottom: 18px;
+      }
+      .footersocialIcon {
+        justify-content: center;
+      }
+      .footer1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+
+      }
+   /* footer css end */
+
+ /* =====================about page======================== */
+
+
+/* about css start */
+.abutLeft{
+    padding-top: 0;
+}
+.abutLeft p{
+    max-width: 100%;
+    padding-bottom: 24px;
+}
+
+.rightSideImg img{
+  display: block;
+  margin: 0 auto;
+}
+#MainAbout{
+    padding: 45px 0 80px 0;
+}
+.abutLeft h2{
+    font-size: 35px;
+}
+/* about css end */
+
+/* team css start*/
+#Team{
+    padding: 0 0 80px 0;
+}
+.aboutCard {
+    max-width: 347.07px;
+    margin: 0 auto 32px auto;
+}
+.AboutHeading h2{
+    font-size: 35px;
+}
+
+#About{
+    padding-bottom: 48px;
+}
+/* team css end*/
+
+
+/* comunity css start */
+#Comunity{
+    padding: 120px 0 !important; 
+}
+/* comunity css end */
+
+/* footer css start */
+  .footerBtm {
+    margin-top: 60px;
+  }
+  .paymentMethod{
+    display: flex;
+    flex-direction: column;
+  }
+  .leftCol{
+    width: 100%;
+}
+
+.left h4{
+    padding-bottom: 32px;
+}
+/* footer css end */
+
+/* ===================Prima page======================== */
+
+/* Banner css start */
+
+.primaBannerText img{
+    max-width: 373px;
+    height: auto;
+}
+.primaBannerText p{
+    font-size: 18px;
+    padding-bottom: 28px;
+}
+
+.ytIcon a i{
+    font-size: 28px;
+    left: 21px;
+    top: -11px;
+}
+.ytIcon{
+    width: 60px;
+    height: 60px;
+}
+
+.primaBannerText button{
+    padding: 9px 15px;
+  font-size: 18px;
+}
+
+.ytIcon::before {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    left: 9px;
+}
+
+.primaBannerText {
+    padding-top: 140px;
+  }
+
+  #PrimaBanner{
+    height: 600px;
+  }
+  #PrimaBanner::after{
+    height: 16%;
+  }
+/* Banner css end */
+
+
+/* offer css start */
+
+.offerCard{
+    max-width: 371px;
+    display: block;
+    margin: 0 auto 108px auto;
+}
+.primaHeading h2{
+    font-size: 35px;
+}
+/* offer css end */
+
+
+
+/* Industry css start */
+#Offer{
+    padding-bottom: 0;
+}
+.indusLeft h3::after {
+    height: 0;
+    width: 0;
+  }
+  .topIndus{
+    display: flex;
+    flex-direction: column;
+  }
+.IndusCol{
+    width: 100%;
+}
+.indusLeft h3{
+    font-size: 35px;
+}
+/* Industry css end */
+
+
+
+
+/* pricing css start */
+.pricingHeading h2{
+    font-size: 35px;
+}
+.pricingHeading p{
+    font-size: 16px;
+}
+
+
+.videoIcon {
+    width: 80px;
+    height: 80px;
+}
+.videoIcon a i{
+    font-size: 30px;
+    left: 32px;
+    top: -1px;
+}
+
+.videoIcon::before {
+    height: 50px;
+    width: 50px;
+    left: 12px;
+    top: 17px;
+  }
+
+  #Pricing {
+    padding: 104px 0 120px 0;
+  }
+/* pricing css end */
+
+
+
+
+/* =====================award page======================= */
+
+/* banner css start */
+.shopBannerText h1{
+    font-size: 35px;
+}
+/* banner css end */
+/* being award css start */
+.beingcal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 32px;
+}
+.beingcal:last-child{
+    margin-bottom: 0;
+}
+.being{
+    margin-top: 32px;
+}
+/* being award css end */
+
+/* being award css start */
+
+.beingAwardCard{
+    padding-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* being award css end */
+
+
+/* talent css start */
+.talentCard{
+    margin: 0 auto 32px auto;
+}
+/* talent css end */
+
+
+}
+
+@media (min-width: 520px) and (max-width: 575.98px) { 
+     /* Header css start */
+     .phone a{
+        font-size: 12px;
+    }
+    .phone{
+        margin-right: 18px;
+    }
+    .email a{
+        font-size: 12px;
+    }
+    .socialIcon a svg{
+        max-width: 17px;
+        height: 17px;
+    }
+
+    .phone a svg{
+        width: 16px;
+        height: 16px;
+    }
+    .email a svg{
+        width: 16px;
+        height: 16px;
+    }
+    /* Header css end */
+    .container{
+        max-width: 90%;
+    }
+    /* banner css start */
+    .banner img{
+        width: 384.97px;
+        height: 107.62px;  
+        margin-bottom: 0px;
+    }
+    .banner p{
+        font-size: 16px;
+        max-width: 352.57px;
+    }
+    .button {
+        display: flex;
+        justify-content: center;
+    }
+    .button button{
+        font-size: 16px;
+        margin-right: 8px;
+        padding: 10px 10px;
+    }
+    .button button:last-child{
+        margin-right: 0px;
+    }
+
+
+    #Banner::after {
+        height: 16%;
+    }
+
+    #Banner{
+        height: 510px !important;
+    }
+
+    .button .btn2{
+        max-width: 259px;
+        font-size: 16px;
+        padding: 10px 10px;
+    }
+    .banner {
+        padding-top: 80px;
+    }
+    .button{
+        margin-top: 24px !important;
+    }
+
+  /* banner css end */
+
+
+  /* about css start */
+  .aboutImg img{
+    max-width: 398.45px;
+    height: auto;
+    margin-left: 3rem;
+    }
+    .aboutText {
+        padding-top: 15px;
+    }
+
+
+    .aboutText h2{
+        font-size: 32px;
+    }
+    .aboutText h3 span{
+        font-size: 24px;
+    }
+    .aboutText p {
+        font-size: 15px;
+    }
+    
+/* about css end */
+
+
+/* Insepering css start */
+.col-card:last-child{
+    padding-bottom: 0;
+}
+#Insepering{
+    padding: 64px 0 10px 0;
+}
+.col-card{
+    padding-bottom: 110px;
+}
+.insCard{
+    margin: 0 auto;
+}
+
+
+.heading h3{
+    font-size: 30px;
+}
+.heading p{
+    font-size: 15px;
+    line-height: 25.5px;
+    max-width: 390px;
+}
+
+.insCard{
+    margin: 0 auto;
+    height: 292px;
+ }
+ 
+ .insCard img{
+     width: 120px;
+     height: 120px;
+ }
+ .insCard h4 {
+     font-size: 26px;
+     line-height: 44px;
+     max-width: 264.58px;
+     margin: 0 auto;
+ }
+/* Insepering css end */
+
+
+/* comnunity css start */
+.com img{
+    max-width: 173.22px;
+    height: auto;
+    margin-bottom: 10px;
+}
+.com h4{
+    font-size: 26px;
+    margin: 0;
+    line-height: 44px;
+}
+.com{
+    padding-bottom: 44px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.comHeading h2{
+    font-size: 30;
+}
+.comHeading{
+    padding-top: 5rem;
+}
+#Comunity{
+    padding: 120px 0 !important; 
+}
+/* comnunity css end */
+
+
+/* partner css start */
+#Partner{
+    padding: 38px 0 99px 0;
+}
+
+.partNer {
+    padding-top: 32px;
+}
+
+.partNer a img{
+    width: 100px;
+    height: auto;
+}
+/* partner css end */
+
+/* footer css start */
+#footer::after {
+    height: 8%;
+    top: -69px;
+    }
+    .footer2{
+        padding-top: 40px;
+    }
+    .socialIcon {
+        justify-content: center;
+      }
+      .footerCoppy p{
+        text-align: center;
+        padding-bottom: 18px;
+      }
+      .footersocialIcon {
+        justify-content: center;
+      }
+      .footer1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+      }
+
+      .footerBtm {
+        margin-top: 60px;
+      }
+      .paymentMethod{
+        display: flex;
+        flex-direction: column;
+      }
+      .leftCol{
+        width: 100%;
+    }
+    
+    .left h4{
+        padding-bottom: 32px;
+    }
+   /* footer css end */
+
+
+   /* =====================about page======================== */
+
+
+/* about css start */
+#About {
+    padding-bottom: 48px;
+}
+.abutLeft{
+    padding-top: 0;
+}
+.abutLeft p{
+    max-width: 100%;
+    padding-bottom: 24px;
+}
+
+.rightSideImg img{
+  display: block;
+  margin: 0 auto;
+}
+#MainAbout{
+    padding: 45px 0 80px 0;
+}
+.abutLeft h2{
+    font-size: 30px;
+}
+/* about css end */
+
+/* team css start*/
+#Team{
+    padding: 60px 0;
+}
+.aboutCard {
+    max-width: 270px;
+    margin: 0 auto 32px auto;
+}
+.AboutHeading h2{
+    font-size: 30px;
+}
+/* team css end*/
+
+
+/* footer css start */
+.payment{
+    display: flex;
+    flex-direction: column;
+}
+.leftFot{
+    padding-bottom: 32px;
+}
+
+.footerBtm {
+    margin-top: 60px;
+  }
+
+  .abc{
+    width: 100%;
+  }
+/* footer css end */
+
+
+/* ===================Prima page======================== */
+
+/* Banner css start */
+
+.primaBannerText img{
+    max-width: 373px;
+    height: auto;
+}
+.primaBannerText p{
+    font-size: 18px;
+    padding-bottom: 28px;
+}
+
+.ytIcon a i{
+    font-size: 28px;
+    left: 21px;
+    top: -11px;
+}
+.ytIcon{
+    width: 60px;
+    height: 60px;
+}
+
+.primaBannerText button{
+    padding: 9px 15px;
+  font-size: 18px;
+}
+
+.ytIcon::before {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    left: 9px;
+}
+
+.primaBannerText {
+    padding-top: 140px;
+  }
+
+  #PrimaBanner{
+    height: 600px;
+  }
+  #PrimaBanner::after{
+    height: 16%;
+  }
+/* Banner css end */
+
+
+/* offer css start */
+
+.offerCard{
+    max-width: 371px;
+    display: block;
+    margin: 0 auto 108px auto;
+}
+
+.primaHeading h2{
+    font-size: 30px;
+}
+/* offer css end */
+
+
+/* Industry css start */
+#Offer{
+    padding-bottom: 0;
+}
+.indusLeft h3::after {
+    height: 0;
+    width: 0;
+  }
+  .topIndus{
+    display: flex;
+    flex-direction: column;
+  }
+.IndusCol{
+    width: 100%;
+}
+.indusLeft h3{
+    font-size: 35px;
+}
+/* Industry css end */
+
+
+/* pricing css start */
+.pricingHeading h2{
+    font-size: 30px;
+}
+.pricingHeading p{
+    font-size: 14px;
+}
+
+
+.videoIcon {
+    width: 60px;
+    height: 60px;
+}
+.videoIcon a i{
+    font-size: 25px;
+    left: 23px;
+    top: -8px;
+}
+
+.videoIcon::before {
+    height: 40px;
+    width: 40px;
+    left: 10px;
+    top: 10px;
+  }
+
+
+
+  .pricingHeading button {
+    font-size: 16px;
+    padding: 11px 15px;
+    margin-bottom: 46px;
+}
+
+
+
+#Pricing {
+    padding: 70px 0 120px 0;
+  }
+
+  
+#Pricing::after {
+    height: 58%; 
+  }
+/* pricing css end */
+
+
+
+
+/* =====================award page======================= */
+
+/* banner css start */
+.shopBannerText h1{
+    font-size: 30px;
+}
+.shopBannerText p{
+    font-size: 15px;
+}
+/* banner css end */
+
+/* banner css end */
+
+/* being award css start */
+.beingcal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 32px;
+}
+.beingcal:last-child{
+    margin-bottom: 0;
+}
+.being{
+    margin-top: 32px;
+}
+/* being award css end */
+/* being award css start */
+
+.beingAwardCard{
+    padding-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#AboutBanner::after{
+    height: 18%;
+}
+/* being award css end */
+
+
+/* talent css start */
+.talentCard{
+    margin: 0 auto 32px auto;
+}
+
+#talentAward {
+    padding-bottom: 80px;
+  }
+/* talent css end */
+
+
+}
+
+
+
+
+@media (min-width: 370px) and (max-width: 519.98px) {
+
+    /* Header css start */
+    .phone {
+        margin-right: 5px;
+      }
+      .headerLeft{
+        display: block;
+    }
+
+
+
+    .phone a{
+        font-size: 12px;
+    }
+    .phone{
+        margin-right: 18px;
+    }
+    .email a{
+        font-size: 12px;
+    }
+    .socialIcon a svg{
+        max-width: 17px;
+        height: 17px;
+    }
+
+    .phone a svg{
+        width: 16px;
+        height: 16px;
+    }
+    .email a svg{
+        width: 16px;
+        height: 16px;
+    }
+    /* Header css end */
+
+
+    .container{
+        max-width: 90%;
+    }
+     /* banner css start */
+     .banner img{
+        width: 333.97px;
+        height: auto;  
+    }
+    .banner p{
+        font-size: 14px;
+        max-width: 325.57px;
+    }
+
+ 
+    .button button{
+        font-size: 14px;
+        margin-right: 8px;
+        margin-bottom: 20px;
+    }
+    .button button:last-child{
+        margin-right: 0px;
+    }
+
+
+    #Banner{
+        height: 497px !important;
+    }
+    
+    #Banner::after {
+        height: 16%;
+    }
+
+
+    .banner button{
+        padding: 10px;
+    }
+
+
+
+    .button .btn2{
+        max-width: 259px;
+        font-size: 16px;
+        padding: 10px 10px;
+    }
+    .banner {
+        padding-top: 80px;
+    }
+    .button{
+        margin-top: 24px !important;
+        display: flex;
+        justify-content: center;
+    }
+
+    .banner img {
+        margin-bottom: 0;
+    }
+
+  /* banner css end */
+
+    /* about css start */
+  
+    .aboutImg img{
+        max-width: 100%;
+        height: auto;
+        margin-left: 0px;
+        }
+        .aboutText {
+            padding-top: 2rem;
+        }
+
+
+        .aboutText h2{
+            font-size: 32px;
+        }
+        .aboutText h3 span{
+            font-size: 24px;
+        }
+        .aboutText p {
+            font-size: 15px;
+        }
+
+        .aboutText h3{
+            font-size: 18px;
+        }
+
+        #About {
+            padding-bottom: 48px;
+        }
+        
+    /* about css end */
+    
+/* Insepering css start */
+.col-card:last-child{
+    padding-bottom: 0;
+}
+#Insepering{
+    padding: 64px 0 10px 0;
+}
+
+.col-card{
+    padding-bottom: 110px;
+}
+
+
+.heading h3 {
+  font-size: 35px;
+}
+.heading p {
+    font-size: 14px;
+}
+.heading h3{
+    font-size: 30px;
+}
+.heading p{
+    font-size: 15px;
+    line-height: 25.5px;
+    max-width: 390px;
+}
+
+.insCard{
+    margin: 0 auto;
+    height: 292px;
+ }
+ 
+ .insCard img{
+     width: 120px;
+     height: 120px;
+ }
+ .insCard h4 {
+     font-size: 26px;
+     line-height: 44px;
+     max-width: 264.58px;
+     margin: 0 auto;
+ }
+/* Insepering css end */
+
+
+/* comnunity css start */
+.com img{
+    max-width: 173.22px;
+    height: auto;
+    margin-bottom: 10px;
+}
+.com h4{
+    font-size: 25px;
+    line-height: 44px;
+}
+.com{
+    padding-bottom: 44px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.comHeading h2{
+    font-size: 28px;
+}
+.comHeading{
+    padding-top: 2rem;
+}
+/* comnunity css end */
+
+
+/* partner css start */
+#Partner{
+    padding: 32px 0 83px 0;
+}
+
+.partNer {
+    padding-top: 32px;
+}
+
+
+.partNer a img{
+    width: 78px;
+    height: auto;
+}
+
+/* partner css end */
+
+
+/* footer css start */
+#footer::after {
+    height: 8%;
+    top: -75px;
+    }
+    .footer2{
+        padding-top: 40px;
+    }
+
+    .socialIcon {
+        justify-content: center;
+      }
+      .footerCoppy p{
+        text-align: center;
+        padding-bottom: 18px;
+      }
+      .footersocialIcon {
+        justify-content: center;
+      }
+      .footer1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+
+      }
+      .footer1 p{
+        text-align: center;
+      }
+      .input{
+        display: flex;
+      }
+      .input input{
+        padding:0 0 0 15px;
+      }
+
+
+      .footerBtm {
+        margin-top: 60px;
+      }
+      .paymentMethod{
+        display: flex;
+        flex-direction: column;
+      }
+      .leftCol{
+        width: 100%;
+    }
+    
+    .left h4{
+        padding-bottom: 32px;
+    }
+   /* footer css end */
+
+
+
+
+    /* =====================about page======================== */
+
+/* banner css start */
+
+#AboutBanner::after{
+    height: 13%;
+    bottom: -3px;
+}
+/* banner css end */
+
+
+/* about css start */
+.abutLeft{
+    padding-top: 22px;
+}
+.abutLeft p{
+    max-width: 100%;
+    padding-bottom: 24px;
+}
+
+.rightSideImg img{
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+#MainAbout{
+    padding: 0 0 60px 0;
+}
+.abutLeft h2{
+    font-size: 30px;
+}
+
+.AboutHeading h2{
+    font-size: 30px;
+}
+/* about css end */
+
+
+/* team css start */
+#Team{
+    padding: 60px 0;
+}
+.aboutCard{
+    width: 100%;
+}
+/* team css end */
+
+/* footer css start */
+.payment{
+    display: flex;
+    flex-direction: column;
+}
+.leftFot{
+    padding-bottom: 32px;
+}
+
+.footerBtm {
+    margin-top: 60px;
+  }
+
+  .abc{
+    width: 100%;
+  }
+/* footer css end */
+
+
+
+/* ===================Prima page======================== */
+
+/* Banner css start */
+
+.primaBannerText img{
+    width: 373.13px;
+    height: auto;
+    max-width: 100%;
+}
+.primaBannerText p{
+    font-size: 16px;
+    padding-bottom: 25px;
+}
+
+.ytIcon a i{
+    font-size: 20px;
+    left: 20px;
+    top: -12px;
+}
+.ytIcon{
+    width: 50px;
+    height: 50px;
+    top: 24%;
+    right: 3%;
+}
+
+.primaBannerText button{
+    padding: 8px 8px;
+    font-size: 14px;
+}
+
+.ytIcon::before {
+    height: 35px;
+    width: 35px;
+    top: 9px;
+    left: 8px;
+}
+
+.primaBannerText {
+    padding-top: 110px;
+  }
+
+  #PrimaBanner{
+    height: 480px;
+  }
+  #PrimaBanner::after{
+    height: 16%;
+  }
+/* Banner css end */
+
+
+
+/* offer css start */
+
+.offerCard{
+    max-width: 371px;
+    display: block;
+    margin: 0 auto 108px auto;
+}
+
+.primaHeading h2{
+    font-size: 35px;
+    padding-bottom: 120px;
+}
+.offerCard p{
+    max-width: 290px;
+}
+/* offer css end */
+
+
+/* Industry css start */
+#Offer{
+    padding-bottom: 0;
+}
+.indusLeft h3::after {
+    height: 0;
+    width: 0;
+  }
+  .topIndus{
+    display: flex;
+    flex-direction: column;
+  }
+.IndusCol{
+    width: 100%;
+}
+.indusLeft h3{
+    font-size: 30px;
+}
+
+.indusBtn button{
+    padding: 8px 8px;
+    font-size: 14px;
+}
+
+#Industry{
+    padding: 50px 0;
+}
+
+/* Industry css end */
+
+/* pricing css start */
+.pricingHeading h2{
+    font-size: 30px;
+}
+.pricingHeading p{
+    font-size: 14px;
+}
+
+
+.videoIcon {
+    width: 60px;
+    height: 60px;
+}
+.videoIcon a i{
+    font-size: 25px;
+    left: 23px;
+    top: -8px;
+}
+
+.videoIcon::before {
+    height: 40px;
+    width: 40px;
+    left: 10px;
+    top: 10px;
+  }
+
+
+
+  .pricingHeading button {
+    font-size: 14px;
+    padding: 9px 12px;
+    margin-bottom: 40px;
+}
+
+
+
+#Pricing {
+    padding: 60px 0 100px 0;
+  }
+
+  
+#Pricing::after {
+    height: 65%; 
+  }
+/* pricing css end */
+
+
+
+/* =====================award page======================= */
+
+/* banner css start */
+.shopBannerText h1{
+    font-size: 30px;
+}
+.shopBannerText p{
+    font-size: 15px;
+}
+/* banner css end */
+/* being award css start */
+.beingcal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 32px;
+}
+.beingcal:last-child{
+    margin-bottom: 0;
+}
+.being{
+    margin-top: 32px;
+}
+/* being award css end */
+/* being award css start */
+
+.beingAwardCard{
+    padding-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* being award css end */
+
+
+/* talent css start */
+.talentCard{
+    margin: 0 auto 32px auto;
+}
+
+#talentAward {
+    padding-bottom: 80px;
+  }
+/* talent css end */
+
+
+}
+
+@media (max-width: 369.98px) {
+    .container{
+        max-width: 90%;
+    }
+
+    /* Header css start */
+    .phone {
+        margin-right: 5px;
+      }
+      .headerLeft{
+        display: block;
+    }
+    .phone a{
+        font-size: 12px;
+    }
+    .phone{
+        margin-right: 18px;
+    }
+    .email a{
+        font-size: 12px;
+    }
+    .socialIcon a svg{
+        max-width: 17px;
+        height: 17px;
+    }
+
+    .phone a svg{
+        width: 16px;
+        height: 16px;
+    }
+    .email a svg{
+        width: 16px;
+        height: 16px;
+    }
+    /* Header css end */
+
+  /* banner css start */
+
+  
+  .banner .btn2{
+    padding: 10px;
+    font-size: 14px;
+} 
+
+.banner button{
+    padding: 10px !important;
+}
+  .banner img{
+    width: 250px;
+    height: auto;  
+}
+.banner p{
+    font-size: 14px !important;
+    max-width: 325.57px !important;
+}
+
+.button button{
+    font-size: 14px;
+    margin-right: 8px;
+}
+.button button:last-child{
+    margin-right: 0px;
+}
+
+
+
+
+#Banner{
+    height: 487px !important;
+}
+
+#Banner::after {
+    height: 16%;
+}
+
+
+.banner button{
+    padding: 10px;
+}
+
+
+
+.button .btn2{
+    max-width: 259px;
+    font-size: 16px;
+    padding: 10px 10px;
+}
+.banner {
+    padding-top: 80px;
+}
+.button{
+    margin-top: 24px !important;
+    display: flex;
+}
+
+.banner img {
+    margin-bottom: 0;
+}
+
+/* banner css end */
+
+
+/* about css start */
+  
+.aboutImg img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 0px;
+    }
+    .aboutText {
+        padding-top: 2rem;
+    }
+
+
+    .aboutText h2{
+        font-size: 32px;
+    }
+    .aboutText h3 span{
+        font-size: 24px;
+    }
+    .aboutText p {
+        font-size: 15px;
+    }
+
+    .aboutText h3{
+        font-size: 18px;
+    }
+    #About {
+        background: #FFE4F3;
+        padding-bottom: 48px;
+    }
+
+/* about css end */
+
+/* Insepering css start */
+.col-card:last-child{
+    padding-bottom: 0;
+}
+#Insepering{
+    padding: 64px 0 10px 0;
+}
+
+.col-card{
+    padding-bottom: 110px;
+}
+
+
+.heading h3 {
+    font-size: 25px;
+  }
+  .heading p {
+      font-size: 14px;
+  }
+
+  .heading h3{
+    font-size: 30px;
+}
+.heading p{
+    font-size: 15px;
+    line-height: 25.5px;
+    max-width: 390px;
+}
+
+
+.insCard{
+    margin: 0 auto;
+    height: 292px;
+ }
+ 
+ .insCard img{
+     width: 120px;
+     height: 120px;
+ }
+ .insCard h4 {
+     font-size: 26px;
+     line-height: 44px;
+     max-width: 264.58px;
+     margin: 0 auto;
+ }
+
+/* Insepering css end */
+
+/* comnunity css start */
+.com img{
+    max-width: 173.22px;
+    height: auto;
+    margin-bottom: 10px;
+}
+.com h4{
+    font-size: 24px;
+    margin: 0;
+    line-height: 44px;
+}
+.com{
+    padding-bottom: 44px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.comHeading h2{
+    font-size: 30px;
+}
+.comHeading{
+    padding-top: 3rem;
+}
+
+/* comnunity css end */
+
+/* partner css start */
+#Partner{
+    padding: 19px 0 91px 0;
+}
+
+.partNer {
+    padding-top: 32px;
+}
+
+.partNer a img{
+    width: 78px;
+    height: auto;
+}
+
+/* partner css end */
+
+/* footer css start */
+#footer::after {
+    height: 8%;
+    top: -76px;
+    }
+    .footer2{
+        padding-top: 40px;
+    }
+
+    .socialIcon {
+        justify-content: center;
+      }
+      .footerCoppy p{
+        text-align: center;
+        padding-bottom: 18px;
+      }
+      .footersocialIcon {
+        justify-content: center;
+      }
+      .footer1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+
+      }
+      .footer1 p{
+        text-align: center;
+      }
+      .input{
+        max-width: 100%;
+        display: flex;
+      }
+      .input input{
+        padding:0 0 0 15px;
+      }
+
+      .footerBtm {
+        margin-top: 60px;
+      }
+      .paymentMethod{
+        display: flex;
+        flex-direction: column;
+      }
+      .leftCol{
+        width: 100%;
+    }
+    
+    .left h4{
+        padding-bottom: 32px;
+    }
+   /* footer css end */
+
+
+/* =====================about page======================== */
+
+/* banner css start */
+
+#AboutBanner::after{
+    height: 13%;
+    bottom: -3px;
+}
+/* banner css end */
+
+
+/* about css start */
+.abutLeft{
+    padding-top: 20px;
+}
+.abutLeft p{
+    max-width: 100%;
+    padding-bottom: 24px;
+}
+
+.rightSideImg img{
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+#MainAbout{
+    padding: 0 0 60px 0;
+}
+.abutLeft h2{
+    font-size: 30px;
+}
+/* about css end */
+
+/* team css start */
+#Team{
+    padding: 60px 0;
+}
+.aboutCard{
+    width: 100%;
+}
+.AboutHeading h2{
+    font-size: 30px;
+}
+/* team css end */
+
+/* footer css start */
+.payment{
+    display: flex;
+    flex-direction: column;
+}
+.leftFot{
+    padding-bottom: 32px;
+}
+
+.footerBtm {
+    margin-top: 60px;
+  }
+
+  .abc{
+    width: 100%;
+  }
+  .input input {
+ width: 80%;
+}
+.input button{
+    max-width: 100%;
+}
+/* footer css end */
+
+
+
+
+/* ===================Prima page======================== */
+
+/* Banner css start */
+.primaBannerText img{
+    width: 373.13px;
+    height: auto;
+    max-width: 100%;
+}
+.primaBannerText p{
+    font-size: 16px;
+    padding-bottom: 25px;
+}
+
+.ytIcon a i{
+    font-size: 20px;
+    left: 20px;
+    top: -12px;
+}
+.ytIcon{
+    width: 50px;
+    height: 50px;
+    top: 24%;
+    right: 3%;
+}
+
+.primaBannerText button{
+    padding: 8px 8px;
+    font-size: 14px;
+}
+
+.ytIcon::before {
+    height: 35px;
+    width: 35px;
+    top: 9px;
+    left: 8px;
+}
+
+.primaBannerText {
+    padding-top: 110px;
+  }
+
+  #PrimaBanner{
+    height: 480px;
+  }
+  #PrimaBanner::after{
+    height: 16%;
+  }
+/* Banner css end */
+
+
+/* offer css start */
+
+.offerCard{
+    max-width: 371px;
+    display: block;
+    margin: 0 auto 108px auto;
+}
+.primaHeading h2{
+    font-size: 35px;
+    padding-bottom: 120px;
+}
+.offerCard p{
+    max-width: 290px;
+}
+
+/* offer css end */
+
+
+
+
+/* Industry css start */
+#Offer{
+    padding-bottom: 0;
+}
+.indusLeft h3::after {
+    height: 0;
+    width: 0;
+  }
+  .topIndus{
+    display: flex;
+    flex-direction: column;
+  }
+.IndusCol{
+    width: 100%;
+}
+.indusLeft h3{
+    font-size: 30px;
+}
+
+.indusBtn button{
+    padding: 8px 8px;
+    font-size: 14px;
+}
+
+#Industry{
+    padding: 50px 0;
+}
+/* Industry css end */
+
+
+
+/* pricing css start */
+.pricingHeading h2{
+    font-size: 30px;
+}
+.pricingHeading p{
+    font-size: 14px;
+}
+
+
+.videoIcon {
+    width: 60px;
+    height: 60px;
+}
+.videoIcon a i{
+    font-size: 25px;
+    left: 23px;
+    top: -8px;
+}
+
+.videoIcon::before {
+    height: 40px;
+    width: 40px;
+    left: 10px;
+    top: 10px;
+  }
+
+
+
+  .pricingHeading button {
+    font-size: 14px;
+    padding: 9px 12px;
+    margin-bottom: 40px;
+}
+
+
+
+#Pricing {
+    padding: 60px 0 100px 0;
+  }
+
+  
+#Pricing::after {
+    height: 65%; 
+  }
+/* pricing css end */
+
+
+
+/* =====================award page======================= */
+
+/* banner css start */
+.shopBannerText h1{
+    font-size: 30px;
+}
+.shopBannerText p{
+    font-size: 15px;
+}
+/* banner css end */
+/* being award css start */
+.beingcal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 32px;
+}
+.beingcal:last-child{
+    margin-bottom: 0;
+}
+.being{
+    margin-top: 32px;
+}
+/* being award css end */
+/* being award css start */
+
+.beingAwardCard{
+    padding-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* being award css end */
+
+
+/* talent css start */
+.talentCard{
+    margin: 0 auto 32px auto;
+}
+#talentAward {
+    padding-bottom: 80px;
+  }
+/* talent css end */
+
+
+}
+
+
+
+
